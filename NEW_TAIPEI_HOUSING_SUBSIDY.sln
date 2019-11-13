@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_APP", "WEB_APP\WEB_APP.csproj", "{F7662540-5A64-41B3-BF8C-688D5275ACE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Debug|x64.ActiveCfg = Debug|x64
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Debug|x64.Build.0 = Debug|x64
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Release|x64.ActiveCfg = Release|x64
+		{F7662540-5A64-41B3-BF8C-688D5275ACE3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53D163C-9C57-4ED1-8806-2E4A31DD19EA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.1.53:8080/tfs/esico
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WEB_APP\\WEB_APP.csproj
+		SccProjectName1 = WEB_APP
+		SccLocalPath1 = WEB_APP
+	EndGlobalSection
+EndGlobal
